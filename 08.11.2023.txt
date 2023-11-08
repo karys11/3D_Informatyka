@@ -1,0 +1,19 @@
+1.+ - dodawanie  - 4+4=8
+2.- - odejmowanie  - 5-2=3
+3./ - dzielenie - 4/2=2
+4.// - dzielenie całkowite - 
+5.% - procent  - 2% 100=2
+6.* - mnożenie - 2*2=4
+7.> - większe - 5>2
+8.< - mniejsze - 4<9 
+9.>= - większe lub równe - 5>=5
+10.<= - mniejsze lub równe - 2<=2
+11.== - równość - 2=2
+12.!= - nierówność 3!=5
+13.** - potęgowanie - 2**3=8
+  
+14.not - operator logiczny "nie"
+15.or - operator logiczny "lub"
+16.and - operator logiczny - "i" 
+17.is - operator identyczności 
+18.in - operator zawierania w sekwencji 
